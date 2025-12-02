@@ -1,6 +1,6 @@
 [project]
 name = "xaero_icons_for_untitled_goose_mod"
-version = "0.1.0"
+version = "0.1.2"
 description = "Adds icons for Untitled Duck Mod for Xaero's Minimap"
 readme = "README.md"
 requires-python = ">=3.13"

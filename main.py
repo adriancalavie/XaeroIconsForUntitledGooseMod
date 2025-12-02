@@ -3,7 +3,7 @@ from zipfile import ZIP_DEFLATED, ZipFile
 
 RESOURCEPACK_FILES_PATH = "./res"
 OUT_PATH = "./out"
-RESOURCEPACK_NAME = "XaeroIconsUntitledDuck"
+RESOURCEPACK_NAME = "Xaero Icons for Untitled Duck Mod"
 
 
 def zip_resourcepack():
