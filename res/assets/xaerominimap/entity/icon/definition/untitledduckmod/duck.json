@@ -3,7 +3,7 @@
     "untitledduckmod:textures/entity/duck.png": "outlined_sprite:untitledduckmod/duck.png",
     "untitledduckmod:textures/entity/duck_campbell.png": "outlined_sprite:untitledduckmod/duck_campbell.png",
     "untitledduckmod:textures/entity/duck_female.png": "outlined_sprite:untitledduckmod/duck_female.png",
-    "untitledduckmod:textures/entity/duck_pekin.png": "outlined_sprite:untitledduckmod/duck_peckin.png",
+    "untitledduckmod:textures/entity/duck_pekin.png": "outlined_sprite:untitledduckmod/duck_pekin.png",
     "untitledduckmod:textures/entity/duckling.png": "outlined_sprite:untitledduckmod/duckling.png",
     "default": "outlined_sprite:untitledduckmod/duck.png"
   }
